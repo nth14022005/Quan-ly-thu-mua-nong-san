@@ -1,0 +1,14 @@
+.venv/
+.venv-1/
+__pycache__/
+.pytest_cache/
+*.pyc
+build/
+dist/
+*.exe
+*.pkg
+*.bak
+*.db
+.env
+.env.*
+BanDo_LoTrinh.html
